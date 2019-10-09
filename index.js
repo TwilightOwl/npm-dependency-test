@@ -1,4 +1,4 @@
 
-const version = '1.1.1';
+const version = '2.0.0';
 
 console.log(`\nHello from npm-dependency-test    ${version}\n`)
